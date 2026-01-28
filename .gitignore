@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Ultralytics / YOLO
+runs/
+wandb/
+
+# Large artifacts (선택)
+*.pt
+*.onnx
+
+# OS
+.DS_Store

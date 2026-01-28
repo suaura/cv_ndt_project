@@ -1,0 +1,5 @@
+imgsz: 640
+epochs: 100
+batch: 16
+seed: 42
+workers: 8
